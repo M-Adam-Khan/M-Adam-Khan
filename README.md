@@ -16,6 +16,103 @@ With a strong problem-solving mindset and a passion for learning, I enjoy transf
 
 ---
 
+## 📂 My Projects
+
+<table>
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>📰 Newsletter AI Agent</strong><br/>
+      <em>An intelligent end-to-end pipeline that researches, writes, proofreads, and delivers professional newsletters from a single topic input.</em><br/>
+      <code>Python</code> · <code>LangGraph</code> · <code>FastAPI</code> · <code>LLMs</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/Newsletter-AI-Agent">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>💬 Custom AI Chatbot</strong><br/>
+      <em>A fully customizable chatbot app built with Streamlit & FastAPI, integrated with OpenAI & Groq for real-time interaction.</em><br/>
+      <code>Python</code> · <code>FastAPI</code> · <code>Streamlit</code> · <code>Groq</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/Custom-AI-Chatbot">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>🦅 Eagle Wings</strong><br/>
+      <em>AI-powered drone simulation and control project with focus on semi-autonomous behavior and mission execution.</em><br/>
+      <code>Python</code> · <code>OpenCV</code> · <code>DroneKit</code> · <code>AI</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/Eagle-Wings">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>🏠 Lahore Property Price Prediction</strong><br/>
+      <em>ML-powered regression project to predict property prices using location & property features scraped from Zameen.com.</em><br/>
+      <code>Jupyter Notebook</code> · <code>LightGBM</code> · <code>EDA</code> · <code>Feature Engineering</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/Lahore-Property-Price-Prediction-using-Machine-Learning">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>📊 Student Performance Analysis</strong><br/>
+      <em>Analyzed academic performance using classification models and feature engineering to identify success patterns.</em><br/>
+      <code>Jupyter Notebook</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>ML Analysis</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/Student-Performance-Analysis-using-Machine-Learning">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>🩸 BloodLine Solutions</strong><br/>
+      <em>AI-driven donor validation system to ensure blood donation safety and compatibility.</em><br/>
+      <code>Jupyter Notebook</code> · <code>Logistic Regression</code> · <code>Data Cleaning</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/BloodLine-Solutions">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle" style="padding: 10px 20px;">
+      <strong>🌐 MyPortfolio</strong><br/>
+      <em>Clean and responsive personal portfolio built using HTML, CSS, and JavaScript.</em><br/>
+      <code>HTML</code> · <code>CSS</code> · <code>Responsive Design</code>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/M-Adam-Khan/MYPORTFOLIO">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🧰 Tech Stack
 
 <h2 style="font-weight:bold;">Languages</h2>
@@ -196,98 +293,33 @@ With a strong problem-solving mindset and a passion for learning, I enjoy transf
   </tr>
 </table>
 
-## 📂 My Projects
+## 📫 Connect with Me
 
-<table>
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>📰 Newsletter AI Agent</strong><br/>
-      <em>An intelligent end-to-end pipeline that researches, writes, proofreads, and delivers professional newsletters from a single topic input.</em><br/>
-      <code>Python</code> · <code>LangGraph</code> · <code>FastAPI</code> · <code>LLMs</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/Newsletter-AI-Agent">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-adam-khan-7ba71421a/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/M-Adam-Khan" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://myportfolio-bay-delta.vercel.app/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:adamkhankhan000@gmail.com" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>💬 Custom AI Chatbot</strong><br/>
-      <em>A fully customizable chatbot app built with Streamlit & FastAPI, integrated with OpenAI & Groq for real-time interaction.</em><br/>
-      <code>Python</code> · <code>FastAPI</code> · <code>Streamlit</code> · <code>Groq</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/Custom-AI-Chatbot">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<p align="center" style="margin-top:10px; font-style: italic;">
+  Feel free to reach out for collaborations, projects, or just to say hi! 🚀
+</p>
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>🦅 Eagle Wings</strong><br/>
-      <em>AI-powered drone simulation and control project with focus on semi-autonomous behavior and mission execution.</em><br/>
-      <code>Python</code> · <code>OpenCV</code> · <code>DroneKit</code> · <code>AI</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/Eagle-Wings">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+## 📊 GitHub Stats
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>🏠 Lahore Property Price Prediction</strong><br/>
-      <em>ML-powered regression project to predict property prices using location & property features scraped from Zameen.com.</em><br/>
-      <code>Jupyter Notebook</code> · <code>LightGBM</code> · <code>EDA</code> · <code>Feature Engineering</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/Lahore-Property-Price-Prediction-using-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Adam-Khan&show_icons=true&theme=radical)
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>📊 Student Performance Analysis</strong><br/>
-      <em>Analyzed academic performance using classification models and feature engineering to identify success patterns.</em><br/>
-      <code>Jupyter Notebook</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>ML Analysis</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/Student-Performance-Analysis-using-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+## 🏆 Top Languages
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>🩸 BloodLine Solutions</strong><br/>
-      <em>AI-driven donor validation system to ensure blood donation safety and compatibility.</em><br/>
-      <code>Jupyter Notebook</code> · <code>Logistic Regression</code> · <code>Data Cleaning</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/BloodLine-Solutions">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adam-Khan&layout=compact&theme=radical)
 
-  <tr>
-    <td valign="middle" style="padding: 10px 20px;">
-      <strong>🌐 MyPortfolio</strong><br/>
-      <em>Clean and responsive personal portfolio built using HTML, CSS, and JavaScript.</em><br/>
-      <code>HTML</code> · <code>CSS</code> · <code>Responsive Design</code>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://github.com/M-Adam-Khan/MYPORTFOLIO">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
