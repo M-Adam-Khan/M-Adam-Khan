@@ -113,6 +113,7 @@ With a strong problem-solving mindset and a passion for learning, I enjoy transf
 
 
 
+
 ## 🧰 Tech Stack
 
 <h2 style="font-weight:bold;">Languages</h2>
@@ -314,12 +315,5 @@ With a strong problem-solving mindset and a passion for learning, I enjoy transf
   Feel free to reach out for collaborations, projects, or just to say hi! 🚀
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Adam-Khan&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adam-Khan&layout=compact&theme=radical)
 
 
