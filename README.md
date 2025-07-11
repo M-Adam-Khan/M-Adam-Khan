@@ -1,31 +1,25 @@
-<h1 align="center">Hi there, I’m Muhammad Adam Khan 👋 </h1>
+<h1 align="center">Hi there, I’m Muhammad Adam Khan 👋</h1>
 
-<p align="center">
-  I'm an AI/ML Engineer & Python Developer
-</p>
+<p align="center">I'm an AI/ML Engineer & Python Developer</p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<table width="100%" cellspacing="0" cellpadding="0" style="margin-top: 40px; margin-bottom: 40px;">
+  <tr>
+    <td valign="top" width="60%" style="padding-right: 40px;">
+      <h2>About Me</h2>
+      <ul style="font-size: 16px; line-height: 1.8; margin-top: 0;">
+        <li>I've worked on different AI / ML projects</li>
+        <li>I've worked with Python, Flask, and FastAPI</li>
+        <li>Currently learning Generative and Agentic AI</li>
+        <li>Ask me about: Python, AI, ML, Deep Learning, Gen AI, Agentic AI</li>
+<li>How to contact me? Email me at: <a href="mailto:adamkhankhan000@gmail.com"><strong>adamkhankhan000@gmail.com</strong></a></li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cute Robot Coding" width="360" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-
-## About Me
-
-- I've worked on different AI / ML projects  
-- I've worked with Python, Flask, and FastAPI  
-- Currently learning Generative and Agentic AI  
-- Ask me about: Python, AI, ML, Deep Learning, Gen AI, Agentic AI  
-- How to contact me? Email me at: **adamkhankhan000@gmail.com**
-
----
-
-<br><br>
-
-<h2 align="center" style="font-weight:700;">Tech Stack</h2>
-
-<p align="center" style="font-style: italic; color: #666;">
-  I've worked with the following technologies across AI/ML, backend, data, and web development.
-</p>
-
-<br>
 
 <!-- Tech Stack Grid -->
 <div align="center">
