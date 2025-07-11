@@ -11,7 +11,7 @@
         <li>I've worked with Python, Flask, and FastAPI</li>
         <li>Currently learning Generative and Agentic AI</li>
         <li>Ask me about: Python, AI, ML, Deep Learning, Gen AI, Agentic AI</li>
-<li>How to contact me? Email me at: <a href="mailto:adamkhankhan000@gmail.com"><strong>adamkhankhan000@gmail.com</strong></a></li>
+        <li>How to contact me? Email me at: <a href="mailto:adamkhankhan000@gmail.com"><strong>adamkhankhan000@gmail.com</strong></a></li>
       </ul>
     </td>
     <td align="center" width="40%">
@@ -20,8 +20,11 @@
   </tr>
 </table>
 
-
-<!-- Tech Stack Grid -->
+<!-- Tech Stack Heading and Description -->
+<h2 align="center" style="font-weight: 700; margin-bottom: 8px;">Tech Stack</h2>
+<p align="center" style="font-style: italic !important; font-weight: 300; color: #666; max-width: 600px; margin: 0 auto 30px auto;">
+  I've worked with the following technologies across AI/ML, backend, data, and web development.
+</p>
 <div align="center">
   <table>
     <tr>
